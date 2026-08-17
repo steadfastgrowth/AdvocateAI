@@ -1,0 +1,3 @@
+xai_sdk
+python-dotenv
+streamlit
